@@ -1,0 +1,51 @@
+body{
+    border: 1px red solid;
+}
+
+nav{
+    width: 100%;
+    border: 1px red solid;
+}
+
+.logo{
+    display:inline-block;
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    border: 1px red solid;
+}
+
+.headerNavigation{
+    display:inline-block;
+    vertical-align: top;
+    width: 73%;
+    padding:1%;
+    border: 1px red solid;
+}
+
+.headerNavigation ul{
+    width: 50%;
+    margin-left: auto;
+    border: 1px red solid;
+}
+
+.mainHero{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px red solid;
+}
+.mainHero img{
+    height: 600px;
+    padding: 25px;
+    border: 1px red solid;
+}
+
+footer{
+    background-color: #373738;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    
+}
